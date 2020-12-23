@@ -1,0 +1,202 @@
+<mxfile host="app.diagrams.net" modified="2020-11-28T23:35:35.585Z" agent="5.0 (Windows)" etag="dLx3sTs52LaxCacbndXx" version="13.8.8" type="github">
+  <diagram id="qNyhNKqWb9O_5Yn_92As" name="Page-1">
+    <mxGraphModel dx="2272" dy="791" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="yXSFny4KiGfWsg5dXEqz-12" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="yXSFny4KiGfWsg5dXEqz-1" target="yXSFny4KiGfWsg5dXEqz-5" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="yXSFny4KiGfWsg5dXEqz-1" value="&lt;font style=&quot;font-size: 16px&quot;&gt;Start&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="10" y="10" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="yXSFny4KiGfWsg5dXEqz-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="yXSFny4KiGfWsg5dXEqz-5" target="yXSFny4KiGfWsg5dXEqz-7" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="yXSFny4KiGfWsg5dXEqz-21" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="yXSFny4KiGfWsg5dXEqz-5" target="yXSFny4KiGfWsg5dXEqz-20" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="yXSFny4KiGfWsg5dXEqz-5" value="&lt;div&gt;Sjakk&lt;/div&gt;" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;fixedSize=1;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="140" y="90" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="yXSFny4KiGfWsg5dXEqz-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="yXSFny4KiGfWsg5dXEqz-7" target="yXSFny4KiGfWsg5dXEqz-9" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="yXSFny4KiGfWsg5dXEqz-7" value="&lt;div&gt;Nytt brett&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="10" y="150" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="yXSFny4KiGfWsg5dXEqz-16" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="yXSFny4KiGfWsg5dXEqz-9" target="yXSFny4KiGfWsg5dXEqz-15" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="yXSFny4KiGfWsg5dXEqz-9" value="Fyll brett med blank" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="10" y="230" width="120" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="yXSFny4KiGfWsg5dXEqz-17" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.2;entryY=1;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" source="yXSFny4KiGfWsg5dXEqz-15" target="yXSFny4KiGfWsg5dXEqz-5" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="220" y="160" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="yXSFny4KiGfWsg5dXEqz-15" value="Fyll brett med hvite og svarte brikker" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="10" y="300" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="yXSFny4KiGfWsg5dXEqz-29" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" source="yXSFny4KiGfWsg5dXEqz-20" target="yXSFny4KiGfWsg5dXEqz-24" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="yXSFny4KiGfWsg5dXEqz-31" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="yXSFny4KiGfWsg5dXEqz-20" target="yXSFny4KiGfWsg5dXEqz-27" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="yXSFny4KiGfWsg5dXEqz-42" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0;entryDx=0;entryDy=0;" parent="1" source="yXSFny4KiGfWsg5dXEqz-20" target="yXSFny4KiGfWsg5dXEqz-40" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="yXSFny4KiGfWsg5dXEqz-20" value="while" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="380" y="40" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="yXSFny4KiGfWsg5dXEqz-26" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="yXSFny4KiGfWsg5dXEqz-24" target="yXSFny4KiGfWsg5dXEqz-25" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="yXSFny4KiGfWsg5dXEqz-24" value="Vis brett" style="shape=display;whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=12;fontColor=#000000;align=center;strokeColor=#000000;fillColor=#ffffff;" parent="1" vertex="1">
+          <mxGeometry x="690" y="10" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="yXSFny4KiGfWsg5dXEqz-30" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.75;entryDx=0;entryDy=0;" parent="1" source="yXSFny4KiGfWsg5dXEqz-25" target="yXSFny4KiGfWsg5dXEqz-20" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="yXSFny4KiGfWsg5dXEqz-25" value="Print brett 8x8" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="690" y="80" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="yXSFny4KiGfWsg5dXEqz-33" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=1;entryY=1;entryDx=0;entryDy=0;" parent="1" source="yXSFny4KiGfWsg5dXEqz-27" target="yXSFny4KiGfWsg5dXEqz-20" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="yXSFny4KiGfWsg5dXEqz-27" value="Hvis tur b = false tur a == true" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="720" y="200" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="yXSFny4KiGfWsg5dXEqz-34" value="&lt;div&gt;Hvis tur b = false&lt;/div&gt;&lt;div&gt;tur a = true&lt;br&gt;&lt;/div&gt;" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="590" y="200" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="yXSFny4KiGfWsg5dXEqz-38" value="" style="endArrow=classic;startArrow=classic;html=1;entryX=0.75;entryY=1;entryDx=0;entryDy=0;exitX=0;exitY=0;exitDx=0;exitDy=0;" parent="1" source="yXSFny4KiGfWsg5dXEqz-34" target="yXSFny4KiGfWsg5dXEqz-20" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="370" y="230" as="sourcePoint" />
+            <mxPoint x="420" y="180" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="490" y="190" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="yXSFny4KiGfWsg5dXEqz-47" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=1;exitDx=0;exitDy=0;entryX=1;entryY=0;entryDx=0;entryDy=0;" parent="1" source="yXSFny4KiGfWsg5dXEqz-40" target="yXSFny4KiGfWsg5dXEqz-46" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="yXSFny4KiGfWsg5dXEqz-40" value="Brikkevalg" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" parent="1" vertex="1">
+          <mxGeometry x="250" y="180" width="100" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="yXSFny4KiGfWsg5dXEqz-49" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="yXSFny4KiGfWsg5dXEqz-46" target="yXSFny4KiGfWsg5dXEqz-48" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="yXSFny4KiGfWsg5dXEqz-46" value="&lt;div&gt;While trekk == true&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" parent="1" vertex="1">
+          <mxGeometry x="170" y="330" width="100" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="yXSFny4KiGfWsg5dXEqz-54" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="yXSFny4KiGfWsg5dXEqz-48" target="yXSFny4KiGfWsg5dXEqz-53" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="yXSFny4KiGfWsg5dXEqz-57" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="yXSFny4KiGfWsg5dXEqz-48" target="yXSFny4KiGfWsg5dXEqz-58" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="80" y="630" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="yXSFny4KiGfWsg5dXEqz-48" value="If tur1 = true" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" parent="1" vertex="1">
+          <mxGeometry x="-120" y="540" width="100" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="yXSFny4KiGfWsg5dXEqz-62" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="yXSFny4KiGfWsg5dXEqz-53" target="yXSFny4KiGfWsg5dXEqz-55" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="yXSFny4KiGfWsg5dXEqz-53" value="Velg brikke å flytte, sjekk om brikke er innenfor brett, og om den er hvit" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" parent="1" vertex="1">
+          <mxGeometry x="-120" y="740" width="100" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="yXSFny4KiGfWsg5dXEqz-61" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" parent="1" source="yXSFny4KiGfWsg5dXEqz-55" target="yXSFny4KiGfWsg5dXEqz-60" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="yXSFny4KiGfWsg5dXEqz-64" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="yXSFny4KiGfWsg5dXEqz-55" target="yXSFny4KiGfWsg5dXEqz-63" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="yXSFny4KiGfWsg5dXEqz-55" value="gyldig svar i char array svar" style="html=1;strokeWidth=2;shape=manualInput;whiteSpace=wrap;rounded=1;size=26;arcSize=11;" parent="1" vertex="1">
+          <mxGeometry x="-20" y="900" width="110" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="yXSFny4KiGfWsg5dXEqz-71" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="yXSFny4KiGfWsg5dXEqz-58" target="yXSFny4KiGfWsg5dXEqz-70" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="yXSFny4KiGfWsg5dXEqz-58" value="hvis brett med gyldig svar = en hvit brikke " style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" parent="1" vertex="1">
+          <mxGeometry x="160" y="520" width="100" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="yXSFny4KiGfWsg5dXEqz-67" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.98;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" source="yXSFny4KiGfWsg5dXEqz-60" target="yXSFny4KiGfWsg5dXEqz-65" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="yXSFny4KiGfWsg5dXEqz-60" value="Konverter første element i svar til en int og minus 1 for radnummer" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" parent="1" vertex="1">
+          <mxGeometry y="720" width="100" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="yXSFny4KiGfWsg5dXEqz-68" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" source="yXSFny4KiGfWsg5dXEqz-63" target="yXSFny4KiGfWsg5dXEqz-65" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="yXSFny4KiGfWsg5dXEqz-63" value="Konverter andre element i svar til en int for kolonnenummer" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" parent="1" vertex="1">
+          <mxGeometry x="140" y="820" width="100" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="yXSFny4KiGfWsg5dXEqz-69" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.25;entryY=1;entryDx=0;entryDy=0;" parent="1" source="yXSFny4KiGfWsg5dXEqz-65" target="yXSFny4KiGfWsg5dXEqz-58" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="yXSFny4KiGfWsg5dXEqz-65" value="" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shape=mxgraph.flowchart.collate;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="160" y="660" width="100" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="yXSFny4KiGfWsg5dXEqz-73" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.75;entryDx=0;entryDy=0;" parent="1" source="yXSFny4KiGfWsg5dXEqz-70" target="yXSFny4KiGfWsg5dXEqz-72" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="yXSFny4KiGfWsg5dXEqz-70" value="&lt;div&gt;While brikke != en svart spiller eller blank&lt;/div&gt;&lt;div&gt;spør bruker om svar og innenfor kolonne 8, 0, og a, h.&lt;br&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;rounded=1;strokeWidth=2;arcSize=14;" parent="1" vertex="1">
+          <mxGeometry x="320" y="540" width="150" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="yXSFny4KiGfWsg5dXEqz-80" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=1;exitDx=0;exitDy=0;entryX=1.01;entryY=0.111;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" source="yXSFny4KiGfWsg5dXEqz-72" target="yXSFny4KiGfWsg5dXEqz-75" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="yXSFny4KiGfWsg5dXEqz-81" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.25;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="yXSFny4KiGfWsg5dXEqz-72" target="yXSFny4KiGfWsg5dXEqz-78" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="yXSFny4KiGfWsg5dXEqz-72" value="gyldig svar i char array svar2" style="html=1;strokeWidth=2;shape=manualInput;whiteSpace=wrap;rounded=1;size=26;arcSize=11;" parent="1" vertex="1">
+          <mxGeometry x="520" y="500" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="yXSFny4KiGfWsg5dXEqz-83" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.25;entryY=0;entryDx=0;entryDy=0;" parent="1" source="yXSFny4KiGfWsg5dXEqz-75" target="yXSFny4KiGfWsg5dXEqz-82" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="yXSFny4KiGfWsg5dXEqz-75" value="Konverter første element i svar til en int og minus 1 for radnummer" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" parent="1" vertex="1">
+          <mxGeometry x="350" y="640" width="100" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="yXSFny4KiGfWsg5dXEqz-84" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.25;entryDx=0;entryDy=0;" parent="1" source="yXSFny4KiGfWsg5dXEqz-78" target="yXSFny4KiGfWsg5dXEqz-82" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="yXSFny4KiGfWsg5dXEqz-78" value="Konverter andre element i svar til en int for kolonnenummer" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" parent="1" vertex="1">
+          <mxGeometry x="480" y="670" width="100" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="yXSFny4KiGfWsg5dXEqz-86" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="yXSFny4KiGfWsg5dXEqz-82" target="yXSFny4KiGfWsg5dXEqz-85" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="yXSFny4KiGfWsg5dXEqz-82" value="hvis brett med gyldig svar = en hvit konge" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" parent="1" vertex="1">
+          <mxGeometry x="350" y="810" width="100" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="yXSFny4KiGfWsg5dXEqz-88" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="yXSFny4KiGfWsg5dXEqz-85" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="180" y="1040" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="yXSFny4KiGfWsg5dXEqz-85" value="bestem at den kan plasseres" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" parent="1" vertex="1">
+          <mxGeometry x="270" y="990" width="100" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="yXSFny4KiGfWsg5dXEqz-92" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="yXSFny4KiGfWsg5dXEqz-89" target="yXSFny4KiGfWsg5dXEqz-91" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="yXSFny4KiGfWsg5dXEqz-89" value="funksjon konge som bestemmer hvor kongen kan flytte seg og hva som skjer om det er er en svart spiller eller blank rom." style="whiteSpace=wrap;html=1;aspect=fixed;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="660" y="1020" width="160" height="160" as="geometry" />
+        </mxCell>
+        <mxCell id="yXSFny4KiGfWsg5dXEqz-93" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="yXSFny4KiGfWsg5dXEqz-91" target="yXSFny4KiGfWsg5dXEqz-85" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="yXSFny4KiGfWsg5dXEqz-91" value="Returnerer en bool om kongen kan plasseres" style="shape=step;perimeter=stepPerimeter;whiteSpace=wrap;html=1;fixedSize=1;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="430" y="1040" width="200" height="70" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
